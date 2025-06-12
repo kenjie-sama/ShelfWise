@@ -361,4 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/ShelfWise.Web/ShelfWise-web/package-lock.json
